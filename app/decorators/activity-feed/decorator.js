@@ -1,2 +1,2 @@
-export default ActivityFeedMetadata extends DecoratorMetadata {
+export default interface ActivityFeedMetadata {
 }

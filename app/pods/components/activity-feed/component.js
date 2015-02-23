@@ -1,8 +1,3 @@
 import Component from 'ember/component';
 
-export default Component.extend({
-  decorators: {
-    activityFeed: []
-    // activityFeed
-  }
-});
+export default Component.extend();
